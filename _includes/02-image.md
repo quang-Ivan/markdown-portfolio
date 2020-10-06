@@ -1,1 +1,1 @@
-![a_picture](https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9haWVybG1hbGVlLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL21lX2FpZXJsbWFfdG9wL0VVeGhiUk1sdzBkTGc5Z2JhVElpSURVQl9rbEJQV0J5dU1RaEFYQ2J6Q1JjdGc/ZT1PaXZkZ0g=.png)
+![a_picture](https://github.com/quang-Ivan/Image-Hosting-1/blob/master/0023_waifu2x_art_noise3_scale_tta_1.png)
