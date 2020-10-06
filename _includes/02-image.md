@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![a_picture](https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9haWVybG1hbGVlLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL21lX2FpZXJsbWFfdG9wL0VVeGhiUk1sdzBkTGc5Z2JhVElpSURVQl9rbEJQV0J5dU1RaEFYQ2J6Q1JjdGc/ZT1PaXZkZ0g=.png)
